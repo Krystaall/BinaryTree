@@ -1,2 +1,5 @@
-# BinaryTree
-implementation of binary tree with all functions-JAVA
+# BinaryTree-JAVA
+implementation of binary tree with 
+1.inorder traverslas
+2. preorder traverslas
+3. postorder traverslas
